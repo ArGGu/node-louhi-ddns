@@ -1,0 +1,16 @@
+{
+	"name": "node-louhi-ddns",
+	"version": "1.0.0",
+	"author": "Ville Mölsä <ville.molsa@gmail.com>",
+	"description": "Dynamic DNS update tool for oma.louhi.fi",
+	"main": "./louhi.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vmolsa/node-louhi-ddns.git"
+	},
+	"dependencies" : {
+		"cheerio"   :  "*",
+	},
+	"license": "MIT",
+}
+
